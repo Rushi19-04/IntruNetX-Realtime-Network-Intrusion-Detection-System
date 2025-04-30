@@ -34,7 +34,7 @@ It captures live network packets, analyzes traffic flows, predicts potential int
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/IntruNet-IDS.git
+   git clone https://github.com/Rushi19-04/IntruNetX-Realtime-Network-Intrusion-Detection-System.git
    cd IntruNet-IDS
    ```
 
@@ -123,12 +123,5 @@ IntruNet-IDS/
 
 ## Credits 🙌
 
-Made with ❤️ by Rushikesh|Viraj|Devendra|Shubham
+Made with ❤️ by Rushikesh | Viraj | Devendra | Shubham
 
----
-
----
-  
-Would you also like me to generate a ready `requirements.txt` file separately so you have everything? 🚀  
-(You can just copy-paste that too.)  
-Would you like? ✅
