@@ -6,6 +6,13 @@ IntruNet IDS is a lightweight **real-time Intrusion Detection System (IDS)** bui
 It captures live network packets, analyzes traffic flows, predicts potential intrusions, and allows the user to **block/unblock suspicious IP addresses** — all through a clean web dashboard.
 
 ---
+## Screenshots
+
+### 🔐 Password Complexity Checker UI:
+![Real Time Detection](ui.png)
+
+### 🧠 Keylogger Log Output:
+![Block Attack IP Addresses](output.png)
 
 ## Features 🚀
 
