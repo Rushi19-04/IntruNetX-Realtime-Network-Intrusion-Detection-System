@@ -9,10 +9,9 @@ It captures live network packets, analyzes traffic flows, predicts potential int
 ## Screenshots
 
 ### 🔐 IntruNetX UI:
-![Real Time Detection](Screenshot2025-05-23135815.png)
+![Dashboard](Dashboard.png)
 
-### 🧠 :
-![Block Attack IP Addresses](Screenshot2025-05-23135924.png)
+![Statistics](Statistics.png)
 
 ## Features 🚀
 
