@@ -126,7 +126,7 @@ IntruNet-IDS/
 > **IntruNet IDS** is meant for educational, research, and local network monitoring purposes only. Unauthorized scanning or interception of third-party networks without consent is illegal.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](License).
 
 
 ---
