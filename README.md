@@ -8,11 +8,11 @@ It captures live network packets, analyzes traffic flows, predicts potential int
 ---
 ## Screenshots
 
-### 🔐 Password Complexity Checker UI:
+### 🔐 IntruNetX UI:
 ![Real Time Detection](Screenshot2025-05-23135815.png)
 
-### 🧠 Keylogger Log Output:
-![Block Attack IP Addresses](output.png)
+### 🧠 :
+![Block Attack IP Addresses](Screenshot2025-05-23135924.png)
 
 ## Features 🚀
 
